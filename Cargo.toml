@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/request_macro", "crates/tests"]
